@@ -1,0 +1,6 @@
+$ npm install -g expo-cli
+$ expo init gameplay
+$ expo start
+// instalar expo go no ios/android
+// acessar camera do ios/android
+// ler qrcode
